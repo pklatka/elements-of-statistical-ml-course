@@ -1,0 +1,12 @@
+# Elements of statistical machine learning course
+
+This repository consists of solutions for elements of statistical machine learning course at AGH UST. Every task is in a separate folder. Solutions were written using Python.
+
+## Short descriptions of given tasks
+
+- [lab1](https://github.com/pklatka/elements-of-statistical-ml-course/tree/main/lab01.ipynb): Monte Carlo introduction to Python, NumPy and Jupyter notebooks
+- [lab2](https://github.com/pklatka/elements-of-statistical-ml-course/tree/main/lab02.ipynb): Estimating object location from noisy radar echos
+- [lab3](https://github.com/pklatka/elements-of-statistical-ml-course/tree/main/lab03.ipynb): Linear regression
+- [lab4](https://github.com/pklatka/elements-of-statistical-ml-course/tree/main/lab04.ipynb): Gaussian Process Regression
+
+If this repository helped you, don't forget to star ⭐️ or fork🍴.
