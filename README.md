@@ -1,6 +1,6 @@
 # Elements of statistical machine learning course
 
-This repository consists of solutions for elements of statistical machine learning course at AGH UST. Every task is in a separate folder. Solutions were written using Python.
+This repository contains solutions for elements of statistical machine learning course at AGH UST. Every task is in a separate folder. Solutions were written using Python.
 
 ## Tasks
 
