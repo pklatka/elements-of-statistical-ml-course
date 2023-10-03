@@ -2,7 +2,7 @@
 
 This repository consists of solutions for elements of statistical machine learning course at AGH UST. Every task is in a separate folder. Solutions were written using Python.
 
-## Short descriptions of given tasks
+## Tasks
 
 - [lab1](https://github.com/pklatka/elements-of-statistical-ml-course/tree/main/lab01.ipynb): Monte Carlo introduction to Python, NumPy and Jupyter notebooks
 - [lab2](https://github.com/pklatka/elements-of-statistical-ml-course/tree/main/lab02.ipynb): Estimating object location from noisy radar echos
